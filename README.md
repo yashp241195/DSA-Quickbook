@@ -10,4 +10,4 @@ Websites are designed according to SEO, meaning “separate articles for any sea
 
 If you try solving all questions on arrays, you’ll get stuck on arrays for a very long time because most questions are similar, and the remaining 15-20% are those that nobody can solve optimally in one go as they are exceptions and are not generally asked. If you don’t listen to experts in competitive coding, it is possible that you might develop impostor syndrome. You might feel other people are so smart that they possess some magical abilities to solve these exceptions just by intuition, which is a big lie.
 
-PS : This Quick book contains information regarding psychology concepts like IQ and it's impact on learning abilities along with other important things.
+PS : This Quick book contains information regarding psychology concepts like IQ and it's impact on learning abilities along with other important things like story of Donald Knuth.
